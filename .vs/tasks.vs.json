@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-BTH1_IT008",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

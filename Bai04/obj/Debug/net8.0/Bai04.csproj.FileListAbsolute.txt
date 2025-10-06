@@ -1,0 +1,14 @@
+C:\Users\THANG\Downloads\LTTQTH1\Bai04\bin\Debug\net8.0\Bai04.exe
+C:\Users\THANG\Downloads\LTTQTH1\Bai04\bin\Debug\net8.0\Bai04.deps.json
+C:\Users\THANG\Downloads\LTTQTH1\Bai04\bin\Debug\net8.0\Bai04.runtimeconfig.json
+C:\Users\THANG\Downloads\LTTQTH1\Bai04\bin\Debug\net8.0\Bai04.dll
+C:\Users\THANG\Downloads\LTTQTH1\Bai04\bin\Debug\net8.0\Bai04.pdb
+C:\Users\THANG\Downloads\LTTQTH1\Bai04\obj\Debug\net8.0\Bai04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THANG\Downloads\LTTQTH1\Bai04\obj\Debug\net8.0\Bai04.AssemblyInfoInputs.cache
+C:\Users\THANG\Downloads\LTTQTH1\Bai04\obj\Debug\net8.0\Bai04.AssemblyInfo.cs
+C:\Users\THANG\Downloads\LTTQTH1\Bai04\obj\Debug\net8.0\Bai04.csproj.CoreCompileInputs.cache
+C:\Users\THANG\Downloads\LTTQTH1\Bai04\obj\Debug\net8.0\Bai04.dll
+C:\Users\THANG\Downloads\LTTQTH1\Bai04\obj\Debug\net8.0\refint\Bai04.dll
+C:\Users\THANG\Downloads\LTTQTH1\Bai04\obj\Debug\net8.0\Bai04.pdb
+C:\Users\THANG\Downloads\LTTQTH1\Bai04\obj\Debug\net8.0\Bai04.genruntimeconfig.cache
+C:\Users\THANG\Downloads\LTTQTH1\Bai04\obj\Debug\net8.0\ref\Bai04.dll
