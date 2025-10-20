@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab2\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83C78392-46F9-4A1F-B0B4-8BF7AACF2133}|Lab2.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C78392-46F9-4A1F-B0B4-8BF7AACF2133}|Lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C78392-46F9-4A1F-B0B4-8BF7AACF2133}|Lab2.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab2\\lab2\\bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C78392-46F9-4A1F-B0B4-8BF7AACF2133}|Lab2.csproj|solutionrelative:bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C78392-46F9-4A1F-B0B4-8BF7AACF2133}|Lab2.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab2\\lab2\\bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C78392-46F9-4A1F-B0B4-8BF7AACF2133}|Lab2.csproj|solutionrelative:bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C78392-46F9-4A1F-B0B4-8BF7AACF2133}|Lab2.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab2\\lab2\\bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C78392-46F9-4A1F-B0B4-8BF7AACF2133}|Lab2.csproj|solutionrelative:bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C78392-46F9-4A1F-B0B4-8BF7AACF2133}|Lab2.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab2\\lab2\\bai02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C78392-46F9-4A1F-B0B4-8BF7AACF2133}|Lab2.csproj|solutionrelative:bai02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C78392-46F9-4A1F-B0B4-8BF7AACF2133}|Lab2.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab2\\lab2\\bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C78392-46F9-4A1F-B0B4-8BF7AACF2133}|Lab2.csproj|solutionrelative:bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai05.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab2\\Lab2\\Bai05.cs",
+              "RelativeDocumentMoniker": "Bai05.cs",
+              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab2\\Lab2\\Bai05.cs",
+              "RelativeToolTip": "Bai05.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAADwv48AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:14:34.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai04.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab2\\Lab2\\Bai04.cs",
+              "RelativeDocumentMoniker": "Bai04.cs",
+              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab2\\Lab2\\Bai04.cs",
+              "RelativeToolTip": "Bai04.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAADwv/IAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:14:05.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai03.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab2\\Lab2\\Bai03.cs",
+              "RelativeDocumentMoniker": "Bai03.cs",
+              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab2\\Lab2\\Bai03.cs",
+              "RelativeToolTip": "Bai03.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwGYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:13:00.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai02.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab2\\Lab2\\Bai02.cs",
+              "RelativeDocumentMoniker": "Bai02.cs",
+              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab2\\Lab2\\Bai02.cs",
+              "RelativeToolTip": "Bai02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:12:28.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai01.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab2\\Lab2\\Bai01.cs",
+              "RelativeDocumentMoniker": "Bai01.cs",
+              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab2\\Lab2\\Bai01.cs",
+              "RelativeToolTip": "Bai01.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvx4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:11:42.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab2\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab2\\Lab2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:09:54.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
