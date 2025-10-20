@@ -1,1 +1,1 @@
-# Visual Studio Git Ignore
+private bool isGameOver = false;
