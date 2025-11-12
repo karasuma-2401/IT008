@@ -1,0 +1,17 @@
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai_07\obj\Debug\net10.0-windows\Bai_07.Form1.resources
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai_07\obj\Debug\net10.0-windows\Bai_07.csproj.GenerateResource.cache
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai_07\obj\Debug\net10.0-windows\Bai_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai_07\obj\Debug\net10.0-windows\Bai_07.AssemblyInfoInputs.cache
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai_07\obj\Debug\net10.0-windows\Bai_07.AssemblyInfo.cs
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai_07\obj\Debug\net10.0-windows\Bai_07.csproj.CoreCompileInputs.cache
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai_07\obj\Debug\net10.0-windows\Bai_07.sourcelink.json
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai_07\bin\Debug\net10.0-windows\Bai_07.exe
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai_07\bin\Debug\net10.0-windows\Bai_07.deps.json
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai_07\bin\Debug\net10.0-windows\Bai_07.runtimeconfig.json
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai_07\bin\Debug\net10.0-windows\Bai_07.dll
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai_07\bin\Debug\net10.0-windows\Bai_07.pdb
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai_07\obj\Debug\net10.0-windows\Bai_07.dll
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai_07\obj\Debug\net10.0-windows\refint\Bai_07.dll
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai_07\obj\Debug\net10.0-windows\Bai_07.pdb
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai_07\obj\Debug\net10.0-windows\Bai_07.genruntimeconfig.cache
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai_07\obj\Debug\net10.0-windows\ref\Bai_07.dll
