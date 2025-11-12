@@ -275,6 +275,5 @@ namespace Bai06
             memoryStorage += GetDisplayValue();
             isNewEntry = true;
         }
-
     }
 }

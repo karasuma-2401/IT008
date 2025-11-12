@@ -28,9 +28,9 @@ namespace Bai01
         {
             LogEvent("3. Shown: Form đã được hiển thị");
         }
-        private void Form1_Deactivate(object sender, EventArgs e)
+        private void Form1_Deactivated(object sender, EventArgs e)
         {
-            LogEvent("*. Deactivate: Form bị bất hoạt");
+            LogEvent("*. Deactivated: Form bị bất hoạt");
         }
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {

@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai08\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBCEE118-AA50-36CB-0F9D-46996A2C67B6}|Bai08.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab3\\bai08\\managertk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BBCEE118-AA50-36CB-0F9D-46996A2C67B6}|Bai08.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab3\\bai08\\managertk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCEE118-AA50-36CB-0F9D-46996A2C67B6}|Bai08.csproj|solutionrelative:managertk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCEE118-AA50-36CB-0F9D-46996A2C67B6}|Bai08.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab3\\bai08\\managertk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCEE118-AA50-36CB-0F9D-46996A2C67B6}|Bai08.csproj|solutionrelative:managertk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCEE118-AA50-36CB-0F9D-46996A2C67B6}|Bai08.csproj|C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai08\\managertk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BBCEE118-AA50-36CB-0F9D-46996A2C67B6}|Bai08.csproj|solutionrelative:managertk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -35,14 +43,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ManagerTK.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai08\\ManagerTK.Designer.cs",
+              "RelativeDocumentMoniker": "ManagerTK.Designer.cs",
+              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai08\\ManagerTK.Designer.cs",
+              "RelativeToolTip": "ManagerTK.Designer.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAYwA0BAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:34:20.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerTK.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai08\\ManagerTK.cs",
+              "RelativeDocumentMoniker": "ManagerTK.cs",
+              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai08\\ManagerTK.cs",
+              "RelativeToolTip": "ManagerTK.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T06:33:50.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ManagerTK.cs [Design]",
               "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai08\\ManagerTK.cs",
               "RelativeDocumentMoniker": "ManagerTK.cs",
               "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai08\\ManagerTK.cs [Design]",
               "RelativeToolTip": "ManagerTK.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T23:05:29.738Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-10T23:05:29.738Z"
             }
           ]
         }

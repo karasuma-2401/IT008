@@ -77,7 +77,7 @@
             Name = "FormCha";
             Text = "FormCha";
             Activated += Form1_Activated;
-            Deactivate += Form1_Deactivate;
+            Deactivate += Form1_Deactivated;
             FormClosing += Form1_FormClosing;
             FormClosed += Form1_FormClosed;
             Load += Form1_Load;
