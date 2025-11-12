@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61161D2D-29E6-DEBA-C09B-06FADB9DFCC0}|Bai01.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab3\\bai01\\formcha.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61161D2D-29E6-DEBA-C09B-06FADB9DFCC0}|Bai01.csproj|solutionrelative:formcha.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{61161D2D-29E6-DEBA-C09B-06FADB9DFCC0}|Bai01.csproj|C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai01\\formcha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{61161D2D-29E6-DEBA-C09B-06FADB9DFCC0}|Bai01.csproj|solutionrelative:formcha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61161D2D-29E6-DEBA-C09B-06FADB9DFCC0}|Bai01.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab3\\bai01\\formcha.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61161D2D-29E6-DEBA-C09B-06FADB9DFCC0}|Bai01.csproj|solutionrelative:formcha.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61161D2D-29E6-DEBA-C09B-06FADB9DFCC0}|Bai01.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab3\\bai01\\formcha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,27 +42,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FormCha.Designer.cs",
               "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai01\\FormCha.Designer.cs",
               "RelativeDocumentMoniker": "FormCha.Designer.cs",
               "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai01\\FormCha.Designer.cs",
               "RelativeToolTip": "FormCha.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T09:18:33.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FormCha.cs [Design]",
               "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai01\\FormCha.cs",
               "RelativeDocumentMoniker": "FormCha.cs",
               "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai01\\FormCha.cs [Design]",
               "RelativeToolTip": "FormCha.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T00:41:10.551Z"
+              "WhenOpened": "2025-11-11T00:41:10.551Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",

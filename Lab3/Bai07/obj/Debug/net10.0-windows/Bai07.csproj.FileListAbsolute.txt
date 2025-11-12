@@ -20,7 +20,6 @@ C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai07\bin\Debu
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai07\bin\Debug\net10.0-windows\Bai07.runtimeconfig.json
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai07\bin\Debug\net10.0-windows\Bai07.dll
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai07\bin\Debug\net10.0-windows\Bai07.pdb
-C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai07\obj\Debug\net10.0-windows\Bai07.Form1.resources
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai07\obj\Debug\net10.0-windows\Bai07.csproj.GenerateResource.cache
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai07\obj\Debug\net10.0-windows\Bai07.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai07\obj\Debug\net10.0-windows\Bai07.AssemblyInfoInputs.cache
@@ -32,3 +31,4 @@ C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai07\obj\Debu
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai07\obj\Debug\net10.0-windows\Bai07.pdb
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai07\obj\Debug\net10.0-windows\Bai07.genruntimeconfig.cache
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai07\obj\Debug\net10.0-windows\ref\Bai07.dll
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab3\Bai07\obj\Debug\net10.0-windows\Bai07.Cinema.resources

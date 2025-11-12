@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai07\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0E897245-B001-6E42-6B57-0D0F5ED7D8D8}|Bai07.csproj|C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai07\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E897245-B001-6E42-6B57-0D0F5ED7D8D8}|Bai07.csproj|solutionrelative:cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E897245-B001-6E42-6B57-0D0F5ED7D8D8}|Bai07.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab3\\bai07\\cinema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E897245-B001-6E42-6B57-0D0F5ED7D8D8}|Bai07.csproj|solutionrelative:cinema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E897245-B001-6E42-6B57-0D0F5ED7D8D8}|Bai07.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab3\\bai07\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E897245-B001-6E42-6B57-0D0F5ED7D8D8}|Bai07.csproj|solutionrelative:cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E897245-B001-6E42-6B57-0D0F5ED7D8D8}|Bai07.csproj|C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai07\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0E897245-B001-6E42-6B57-0D0F5ED7D8D8}|Bai07.csproj|solutionrelative:cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Cinema.Designer.cs",
               "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai07\\Cinema.Designer.cs",
               "RelativeDocumentMoniker": "Cinema.Designer.cs",
@@ -55,18 +55,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Cinema.cs [Design]",
               "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai07\\Cinema.cs",
               "RelativeDocumentMoniker": "Cinema.cs",
               "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai07\\Cinema.cs [Design]",
               "RelativeToolTip": "Cinema.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T06:51:44.045Z"
+              "WhenOpened": "2025-11-10T06:51:44.045Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Cinema.cs",
               "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai07\\Cinema.cs",
               "RelativeDocumentMoniker": "Cinema.cs",

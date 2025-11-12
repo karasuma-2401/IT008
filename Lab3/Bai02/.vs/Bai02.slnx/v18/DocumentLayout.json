@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63F3F55B-AB68-2931-05EB-A160753049C2}|Bai02.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab3\\bai02\\randomposition.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63F3F55B-AB68-2931-05EB-A160753049C2}|Bai02.csproj|solutionrelative:randomposition.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63F3F55B-AB68-2931-05EB-A160753049C2}|Bai02.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab3\\bai02\\randomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63F3F55B-AB68-2931-05EB-A160753049C2}|Bai02.csproj|solutionrelative:randomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63F3F55B-AB68-2931-05EB-A160753049C2}|Bai02.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab3\\bai02\\randomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63F3F55B-AB68-2931-05EB-A160753049C2}|Bai02.csproj|solutionrelative:randomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63F3F55B-AB68-2931-05EB-A160753049C2}|Bai02.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab3\\bai02\\randomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{63F3F55B-AB68-2931-05EB-A160753049C2}|Bai02.csproj|solutionrelative:randomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63F3F55B-AB68-2931-05EB-A160753049C2}|Bai02.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab3\\bai02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -60,19 +56,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RandomPosition.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai02\\RandomPosition.Designer.cs",
-              "RelativeDocumentMoniker": "RandomPosition.Designer.cs",
-              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai02\\RandomPosition.Designer.cs",
-              "RelativeToolTip": "RandomPosition.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T05:01:35.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "RandomPosition.cs [Design]",
               "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai02\\RandomPosition.cs",
               "RelativeDocumentMoniker": "RandomPosition.cs",
@@ -84,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab3\\Bai02\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -92,8 +75,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T03:36:55.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T03:36:55.907Z"
             }
           ]
         }

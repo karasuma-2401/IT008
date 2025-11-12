@@ -39,14 +39,14 @@
             lbProcessChildForm.ItemHeight = 21;
             lbProcessChildForm.Location = new Point(32, 46);
             lbProcessChildForm.Name = "lbProcessChildForm";
-            lbProcessChildForm.Size = new Size(362, 214);
+            lbProcessChildForm.Size = new Size(440, 214);
             lbProcessChildForm.TabIndex = 0;
             // 
             // CreateChildFormBtn
             // 
             CreateChildFormBtn.FlatAppearance.BorderColor = Color.Blue;
             CreateChildFormBtn.FlatStyle = FlatStyle.Flat;
-            CreateChildFormBtn.Location = new Point(416, 46);
+            CreateChildFormBtn.Location = new Point(525, 46);
             CreateChildFormBtn.Name = "CreateChildFormBtn";
             CreateChildFormBtn.Size = new Size(173, 39);
             CreateChildFormBtn.TabIndex = 1;
@@ -58,7 +58,7 @@
             // 
             CloseBtn.FlatAppearance.BorderColor = Color.Blue;
             CloseBtn.FlatStyle = FlatStyle.Flat;
-            CloseBtn.Location = new Point(416, 118);
+            CloseBtn.Location = new Point(525, 118);
             CloseBtn.Name = "CloseBtn";
             CloseBtn.Size = new Size(173, 39);
             CloseBtn.TabIndex = 2;

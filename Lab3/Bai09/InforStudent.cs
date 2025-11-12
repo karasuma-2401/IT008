@@ -65,7 +65,7 @@ namespace Bai09
             string HoTen = txtHoTen.Text;
             string ChuyenNganh = cboChuyenNganh.Text;
             string GioiTinh;
-            if (MSSV == "" || HoTen == "" || ChuyenNganh == "" || chkNam == null || chkNam == null)
+            if (MSSV == "" || HoTen == "" || ChuyenNganh == "" || (chkNam.Checked == false && chkNu.Checked == false))
             {
                 MessageBox.Show("Vui lòng điền đầy đủ thông tin");
                 return;
