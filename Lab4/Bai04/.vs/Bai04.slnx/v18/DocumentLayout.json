@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5E622FD-B074-C772-8D85-2AF3CCBE857A}|Bai04.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab4\\bai04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5E622FD-B074-C772-8D85-2AF3CCBE857A}|Bai04.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5E622FD-B074-C772-8D85-2AF3CCBE857A}|Bai04.csproj|C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C5E622FD-B074-C772-8D85-2AF3CCBE857A}|Bai04.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab4\\bai04\\formtexteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|solutionrelative:formtexteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 468,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,27 +42,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai04\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai04\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T04:51:56.67Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai04\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai04\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwB0AAAAAAAAAAAAAAA==",
+              "Title": "FormTextEditor.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai04\\FormTextEditor.cs",
+              "RelativeDocumentMoniker": "FormTextEditor.cs",
+              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai04\\FormTextEditor.cs",
+              "RelativeToolTip": "FormTextEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T05:14:24.891Z",
+              "WhenOpened": "2025-11-27T07:54:34.83Z",
               "EditorCaption": ""
             }
           ]

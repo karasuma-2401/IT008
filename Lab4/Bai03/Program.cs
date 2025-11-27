@@ -1,6 +1,4 @@
-using QuanLySinhVien;
-
-namespace Bai03
+namespace Bai01
 {
     internal static class Program
     {
@@ -13,7 +11,7 @@ namespace Bai03
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new FormQuanLySinhVien());
+            Application.Run(new FormWindowsMediaPlayer());
         }
     }
 }

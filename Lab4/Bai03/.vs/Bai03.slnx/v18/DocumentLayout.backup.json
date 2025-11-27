@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab4\\bai03\\formquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|solutionrelative:formquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab4\\bai03\\formwindowsmediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|solutionrelative:formwindowsmediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab4\\bai03\\formquanlysinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|solutionrelative:formquanlysinhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab4\\bai03\\formwindowsmediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|solutionrelative:formwindowsmediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab4\\bai03\\formquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|solutionrelative:formquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab4\\bai03\\formwindowsmediaplayer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|solutionrelative:formwindowsmediaplayer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 468,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormQuanLySinhVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai03\\FormQuanLySinhVien.cs",
-              "RelativeDocumentMoniker": "FormQuanLySinhVien.cs",
-              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai03\\FormQuanLySinhVien.cs [Design]*",
-              "RelativeToolTip": "FormQuanLySinhVien.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T16:56:52.772Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -64,27 +51,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormQuanLySinhVien.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai03\\FormQuanLySinhVien.Designer.cs",
-              "RelativeDocumentMoniker": "FormQuanLySinhVien.Designer.cs",
-              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai03\\FormQuanLySinhVien.Designer.cs*",
-              "RelativeToolTip": "FormQuanLySinhVien.Designer.cs*",
-              "ViewState": "AgIAAFUAAAAAAAAAAAArwFsAAAAzAAAAAAAAAA==",
+              "Title": "FormWindowsMediaPlayer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai03\\FormWindowsMediaPlayer.cs",
+              "RelativeDocumentMoniker": "FormWindowsMediaPlayer.cs",
+              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai03\\FormWindowsMediaPlayer.cs [Design]",
+              "RelativeToolTip": "FormWindowsMediaPlayer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T04:47:00.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T07:05:24.075Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FormQuanLySinhVien.cs",
-              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai03\\FormQuanLySinhVien.cs",
-              "RelativeDocumentMoniker": "FormQuanLySinhVien.cs",
-              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai03\\FormQuanLySinhVien.cs*",
-              "RelativeToolTip": "FormQuanLySinhVien.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAA7wCYAAAAjAAAAAAAAAA==",
+              "Title": "FormWindowsMediaPlayer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai03\\FormWindowsMediaPlayer.Designer.cs",
+              "RelativeDocumentMoniker": "FormWindowsMediaPlayer.Designer.cs",
+              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai03\\FormWindowsMediaPlayer.Designer.cs",
+              "RelativeToolTip": "FormWindowsMediaPlayer.Designer.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAhwEEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T04:35:43.061Z",
+              "WhenOpened": "2025-11-27T07:03:46.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormWindowsMediaPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai03\\FormWindowsMediaPlayer.cs",
+              "RelativeDocumentMoniker": "FormWindowsMediaPlayer.cs",
+              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai03\\FormWindowsMediaPlayer.cs",
+              "RelativeToolTip": "FormWindowsMediaPlayer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAEwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:01:50.639Z",
               "EditorCaption": ""
             }
           ]

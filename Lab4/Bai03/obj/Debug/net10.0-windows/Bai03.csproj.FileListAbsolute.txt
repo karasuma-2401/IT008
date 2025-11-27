@@ -3,9 +3,11 @@ C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\bin\Debu
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\bin\Debug\net10.0-windows\Bai03.runtimeconfig.json
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\bin\Debug\net10.0-windows\Bai03.dll
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\bin\Debug\net10.0-windows\Bai03.pdb
-C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\obj\Debug\net10.0-windows\QuanLySinhVien.FormQuanLySinhVien.resources
-C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\obj\Debug\net10.0-windows\QuanLySinhVien.FormThemSinhVien.resources
-C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\obj\Debug\net10.0-windows\Bai03.Properties.Resources.resources
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\bin\Debug\net10.0-windows\Interop.WMPLib.dll
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\bin\Debug\net10.0-windows\AxInterop.WMPLib.dll
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\obj\Debug\net10.0-windows\Interop.WMPLib.dll
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\obj\Debug\net10.0-windows\AxInterop.WMPLib.dll
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\obj\Debug\net10.0-windows\Bai03.csproj.ResolveComReference.cache
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\obj\Debug\net10.0-windows\Bai03.csproj.GenerateResource.cache
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\obj\Debug\net10.0-windows\Bai03.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\obj\Debug\net10.0-windows\Bai03.AssemblyInfoInputs.cache
@@ -17,3 +19,4 @@ C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\obj\Debu
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\obj\Debug\net10.0-windows\Bai03.pdb
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\obj\Debug\net10.0-windows\Bai03.genruntimeconfig.cache
 C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\obj\Debug\net10.0-windows\ref\Bai03.dll
+C:\Users\THANG\Desktop\UNIVERSITY\IT008_LTTQ\LABTH\BTH_IT008\Lab4\Bai03\obj\Debug\net10.0-windows\Bai01.FormWindowsMediaPlayer.resources
