@@ -1,6 +1,6 @@
-using QuanLySinhVien;
+using Bai05;
 
-namespace Bai03
+namespace Bai05
 {
     internal static class Program
     {

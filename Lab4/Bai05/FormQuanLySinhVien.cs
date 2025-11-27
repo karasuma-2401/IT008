@@ -1,8 +1,4 @@
-﻿using System.Data;
-using System.Linq;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.ProgressBar;
-
-namespace QuanLySinhVien
+﻿namespace Bai05
 {
     public partial class FormQuanLySinhVien : Form
     {

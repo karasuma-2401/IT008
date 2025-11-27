@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF5E4C9E-78BC-B6AD-F02E-3F9E9D530432}|Bai05.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab4\\bai05\\formthemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FF5E4C9E-78BC-B6AD-F02E-3F9E9D530432}|Bai05.csproj|solutionrelative:formthemsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FF5E4C9E-78BC-B6AD-F02E-3F9E9D530432}|Bai05.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab4\\bai05\\formquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5E4C9E-78BC-B6AD-F02E-3F9E9D530432}|Bai05.csproj|solutionrelative:formquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF5E4C9E-78BC-B6AD-F02E-3F9E9D530432}|Bai05.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab4\\bai05\\formquanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -47,14 +47,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormThemSinhVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai05\\FormThemSinhVien.cs",
-              "RelativeDocumentMoniker": "FormThemSinhVien.cs",
-              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai05\\FormThemSinhVien.cs [Design]",
-              "RelativeToolTip": "FormThemSinhVien.cs [Design]",
+              "Title": "FormQuanLySinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai05\\FormQuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "FormQuanLySinhVien.cs",
+              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai05\\FormQuanLySinhVien.cs",
+              "RelativeToolTip": "FormQuanLySinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T08:02:35.236Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-27T16:51:28.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -65,7 +66,7 @@
               "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab4\\Bai05\\FormQuanLySinhVien.cs [Design]",
               "RelativeToolTip": "FormQuanLySinhVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T08:02:29.453Z",
+              "WhenOpened": "2025-11-27T16:49:13.65Z",
               "EditorCaption": " [Design]"
             }
           ]

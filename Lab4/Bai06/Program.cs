@@ -1,4 +1,4 @@
-namespace Bai04
+namespace Bai06
 {
     internal static class Program
     {

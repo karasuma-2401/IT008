@@ -1,4 +1,4 @@
-﻿namespace Bai01
+﻿namespace Bai03
 {
     partial class FormWindowsMediaPlayer
     {

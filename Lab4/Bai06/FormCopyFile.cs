@@ -1,4 +1,4 @@
-﻿namespace Bai04
+﻿namespace Bai06
 {
     public partial class FormCopyFile : Form
     {

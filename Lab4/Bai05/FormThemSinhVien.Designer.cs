@@ -1,4 +1,4 @@
-﻿namespace QuanLySinhVien
+﻿namespace Bai05
 {
     partial class FormThemSinhVien
     {
