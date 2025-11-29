@@ -48,15 +48,14 @@ namespace Bai04
             dlg.Filter = "RTF file|*.rtf|TXT file|*.txt";
             if (dlg.ShowDialog() == DialogResult.OK)
             {
-                if (dlg.FileName.EndsWith(".rft"))
+                if (dlg.FileName.EndsWith(".rtf"))
                 {
-                    rtxtContent.LoadFile(currentFilePath, RichTextBoxStreamType.RichText);
+                    rtxtContent.LoadFile(dlg.FileName, RichTextBoxStreamType.RichText);
                 }
-                else
+                else 
                 {
-                    rtxtContent.LoadFile(currentFilePath, RichTextBoxStreamType.PlainText);
+                    rtxtContent.LoadFile(dlg.FileName, RichTextBoxStreamType.PlainText);
                 } 
-                
             }
         }
         private void SaveFile ()
@@ -72,7 +71,7 @@ namespace Bai04
             }
             else
             {
-                if (saveFileDialog1.FileName.EndsWith(".rft"))
+                if (saveFileDialog1.FileName.EndsWith(".rtf"))
                 {
                     rtxtContent.SaveFile(currentFilePath, RichTextBoxStreamType.RichText);
                 }
@@ -98,20 +97,10 @@ namespace Bai04
         private void tsmiFormat_Click(object sender, EventArgs e)
         {
             FontDialog fontdl = new FontDialog();
+            fontdl.ShowDialog();
             if (rtxtContent.SelectionFont != null)
             {
-                fontdl.Font = rtxtContent.SelectionFont;
-            }
-            else
-            {
-                fontdl.Font = rtxtContent.Font;
-            }
-
-            if (fontdl.ShowDialog() == DialogResult.OK)
-            {
                 rtxtContent.SelectionFont = fontdl.Font;
-                tscbbFont.Text = fontdl.Font.Name;
-                tscbbSize.Text = fontdl.Font.Size.ToString();
             }
         }
         private void Font_Changed(object sender, EventArgs e)

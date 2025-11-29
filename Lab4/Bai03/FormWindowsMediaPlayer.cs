@@ -29,5 +29,6 @@
             tsslDate.Text = "Hôm nay " + date.ToString("dd/MM/yyyy")
                 + " - Bây giờ " + date.ToString("hh:mm:ss tt");
         }
+
     }
 }
