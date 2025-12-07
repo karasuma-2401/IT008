@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab5\\Bai11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62EA8550-0C2B-5266-0FC7-9B2C030CBC48}|Bai11.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab5\\bai11\\formpaintapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62EA8550-0C2B-5266-0FC7-9B2C030CBC48}|Bai11.csproj|solutionrelative:formpaintapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62EA8550-0C2B-5266-0FC7-9B2C030CBC48}|Bai11.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab5\\bai11\\formpaintapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{62EA8550-0C2B-5266-0FC7-9B2C030CBC48}|Bai11.csproj|C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab5\\Bai11\\formpaintapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{62EA8550-0C2B-5266-0FC7-9B2C030CBC48}|Bai11.csproj|solutionrelative:formpaintapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62EA8550-0C2B-5266-0FC7-9B2C030CBC48}|Bai11.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab5\\bai11\\formpaintapp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62EA8550-0C2B-5266-0FC7-9B2C030CBC48}|Bai11.csproj|solutionrelative:formpaintapp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62EA8550-0C2B-5266-0FC7-9B2C030CBC48}|Bai11.csproj|c:\\users\\thang\\desktop\\university\\it008_lttq\\labth\\bth_it008\\lab5\\bai11\\formpaintapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EA8550-0C2B-5266-0FC7-9B2C030CBC48}|Bai11.csproj|solutionrelative:formpaintapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 468,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,28 +38,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormPaintApp.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab5\\Bai11\\FormPaintApp.Designer.cs",
-              "RelativeDocumentMoniker": "FormPaintApp.Designer.cs",
-              "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab5\\Bai11\\FormPaintApp.Designer.cs",
-              "RelativeToolTip": "FormPaintApp.Designer.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwv/wAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T11:42:12.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FormPaintApp.cs [Design]",
               "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab5\\Bai11\\FormPaintApp.cs",
               "RelativeDocumentMoniker": "FormPaintApp.cs",
@@ -75,16 +54,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FormPaintApp.cs",
               "DocumentMoniker": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab5\\Bai11\\FormPaintApp.cs",
               "RelativeDocumentMoniker": "FormPaintApp.cs",
               "ToolTip": "C:\\Users\\THANG\\Desktop\\UNIVERSITY\\IT008_LTTQ\\LABTH\\BTH_IT008\\Lab5\\Bai11\\FormPaintApp.cs",
               "RelativeToolTip": "FormPaintApp.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAIwIkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAIIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T09:52:38.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T09:52:38.561Z"
             }
           ]
         }
